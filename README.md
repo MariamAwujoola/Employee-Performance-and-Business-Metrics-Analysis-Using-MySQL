@@ -10,6 +10,7 @@
 - [SQL Query3](sql-query3)
 - [SQL Query4](sql-query4)
 - [SQL Query5](sql-query5)
+-  [SQL Query6](sql-query6)
 
   ---
   
